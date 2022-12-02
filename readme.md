@@ -50,7 +50,7 @@ or for a direct bitcoin address, consider donating to the
 at 1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN
 
 ![alt text](https://static.fsf.org/nosvn/images/bitcoin_qrcodes/fsf.png "FSF Bitcoin Address")
-
+12212
 ## Making changes
 
 Please do not make modifications to `bip39-standalone.html`, since they will
